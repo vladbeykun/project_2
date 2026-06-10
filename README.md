@@ -21,10 +21,10 @@
 ---
 
 ## Структура проекта
-├── 01_cleaning_eda.ipynb # Очистка, признаки, макро-метрики (GMV, AOV, ARPU)
-├── 02_product_analysis.ipynb # Когорты, RFM-сегментация, ABC-анализ, выводы
-├── data.zip/ # Исходные и очищенные данные
-└── README.md
+1. 01_cleaning_eda.ipynb # Очистка, признаки, макро-метрики (GMV, AOV, ARPU)
+2. 02_product_analysis.ipynb # Когорты, RFM-сегментация, ABC-анализ, выводы
+3. data.zip/ # Исходные и очищенные данные
+4. README.md
 
 ## Ключевые этапы
 
